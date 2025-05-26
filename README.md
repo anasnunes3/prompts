@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Prompts
+# Prompts para a atividade "Do IT, Girls! (On the Road)"
 
-_ https://shorturl.at/qJGE4 _
+# https://shorturl.at/qJGE4 
 
 </header>
 
