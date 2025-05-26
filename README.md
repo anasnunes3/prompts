@@ -57,6 +57,9 @@ Destaca como cada ideia rompe com o status quo atual.
 Otimiza para a concisão.
 
 
+## Prompt 4:
+
+Gosto mais da Ideia **X**. Para ajudar a compreender a ideia e como funcionaria na realidade, cria um pitch para apresentar em 2 minutos.”![image](https://github.com/user-attachments/assets/b1fc8a5f-515d-4aed-91ec-6905e6abeea4)
 
 
 
