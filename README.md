@@ -25,12 +25,19 @@ Otimiza para a concisão.
 ## Prompt 2:
 
 Quero que melhores e aperfeiçoes a declaração de oportunidade abaixo, seguindo a seguinte estrutura e critérios:
+
 Uma declaração de oportunidade deve ser clara, visionária e acionável. 
+
 Deve inspirar paixão, focar a atenção e comunicar uma visão orientada para o futuro.Atributos de uma boa declaração de oportunidade:
+
 Visionária: Deve apresentar uma visão forte do futuro, desafiando o status quo e inspirando uma nova direção ousada.
+
 Centrada no Cliente: Deve destacar a criação de valor para o utilizador, compreendendo as suas necessidades e como a transformação melhorará a sua experiência.
+
 Focada em Resultados: Em vez de descrever ações ("implementar IA"), deve definir os resultados desejados ("tornar-se referência em experiências personalizadas com IA").
+
 Mensurável: Apesar de aspiracional, deve permitir acompanhamento e medição do progresso.
+
 Urgente: Num ambiente digital em rápida mudança, deve transmitir a importância de agir agora.
 
 Melhora a seguinte declaração de oportunidade e cria três variações otimizadas para brevidade.
@@ -42,8 +49,11 @@ Melhora a seguinte declaração de oportunidade e cria três variações otimiza
 Gosto mais desta: **Transformar a inclusão feminina em STEM, formando uma geração diversa de inovadoras.**
 
 Gera 5 ideias radicais para abordar a declaração de oportunidade final. As ideias devem desafiar o status quo e procurar revolucionar o mercado.
+
 As propostas devem ser inspiradoras e ambiciosas, escritas numa perspetiva de abundância, com grande potencial, breves e diretas.
+
 Destaca como cada ideia rompe com o status quo atual.
+
 Otimiza para a concisão.
 
 
