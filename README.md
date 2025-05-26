@@ -58,8 +58,7 @@ Otimiza para a concisão.
 
 
 
-#
-Explora mais sobre estes temas aqui:
+# Explora mais sobre estes temas aqui:
 
 Websites que podes explorar
 The Inventors - atividades e experiências educativas nas áreas da engenharia, arte e criatividade
@@ -74,7 +73,7 @@ Filmes que podes ver
 “Hidden Figures” (Elementos Secretos) - 2016
 “Jogo da Imitação” - 2014
 “She Started It” – Documentário, 2016
-![image](https://github.com/user-attachments/assets/a1be91f4-3fd7-418b-99d6-48744bae404d)
+
 
 
 
