@@ -58,6 +58,8 @@ Otimiza para a concisão.
 
 
 
+
+
 ### Explora mais sobre estes temas aqui:
 
 #### Websites que podes explorar
@@ -68,11 +70,15 @@ https://sharkcoders.pt/ Shark Coders – aprende a programar
 
 https://www.khanacademy.org/ Khan Academy – Cursos de programação, matemática, ciências e muito mais
 
+
+
 #### Livros que podes ler
 
 “As Cientistas”, de Rachel Ignotofsky
 
 “Breve História de Quase Tudo”, de Bill Bryson
+
+
 
 #### Filmes que podes ver
 
@@ -82,20 +88,3 @@ https://www.khanacademy.org/ Khan Academy – Cursos de programação, matemáti
 
 “She Started It” – Documentário, 2016
 
-
-
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
