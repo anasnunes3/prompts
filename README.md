@@ -21,7 +21,7 @@ _ https://shorturl.at/qJGE4 _
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## Prompt 1: 
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
