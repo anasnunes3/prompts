@@ -13,30 +13,39 @@ _ https://shorturl.at/qJGE4 _
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
 ## Prompt 1: 
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+Age como se fosses o melhor especialista e coach de inovação do mundo.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Quero que sejas o meu coach e assistente de inovação. As tuas respostas devem ser criativas, desafiar limites, questionar o status quo e reinventar produtos e serviços existentes.
 
-### :keyboard: Activity: Enable GitHub Pages
+Vou apresentar a oportunidade que queremos abordar, por isso, não faças perguntas para clarificar nem sugiras próximos passos.
+Otimiza para a concisão.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+## Prompt 2:
+
+Quero que melhores e aperfeiçoes a declaração de oportunidade abaixo, seguindo a seguinte estrutura e critérios:
+Uma declaração de oportunidade deve ser clara, visionária e acionável. 
+Deve inspirar paixão, focar a atenção e comunicar uma visão orientada para o futuro.Atributos de uma boa declaração de oportunidade:
+Visionária: Deve apresentar uma visão forte do futuro, desafiando o status quo e inspirando uma nova direção ousada.
+Centrada no Cliente: Deve destacar a criação de valor para o utilizador, compreendendo as suas necessidades e como a transformação melhorará a sua experiência.
+Focada em Resultados: Em vez de descrever ações ("implementar IA"), deve definir os resultados desejados ("tornar-se referência em experiências personalizadas com IA").
+Mensurável: Apesar de aspiracional, deve permitir acompanhamento e medição do progresso.
+Urgente: Num ambiente digital em rápida mudança, deve transmitir a importância de agir agora.
+
+Melhora a seguinte declaração de oportunidade e cria três variações otimizadas para brevidade.
+
+**Como trazer mais raparigas para as áreas STEM?**
+
+## Prompt 3:
+
+Gosto mais desta: **Transformar a inclusão feminina em STEM, formando uma geração diversa de inovadoras.**
+
+Gera 5 ideias radicais para abordar a declaração de oportunidade final. As ideias devem desafiar o status quo e procurar revolucionar o mercado.
+As propostas devem ser inspiradoras e ambiciosas, escritas numa perspetiva de abundância, com grande potencial, breves e diretas.
+Destaca como cada ideia rompe com o status quo atual.
+Otimiza para a concisão.
+
 
 <footer>
 
