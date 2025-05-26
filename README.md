@@ -65,7 +65,7 @@ Para ajudar a compreender a ideia e como funcionaria na realidade, cria um pitch
 
 
 
-### Explora mais sobre estes temas aqui:
+## Explora mais sobre estes temas aqui:
 
 #### Websites que podes explorar
 
