@@ -58,20 +58,28 @@ Otimiza para a concisão.
 
 
 
-# Explora mais sobre estes temas aqui:
+### Explora mais sobre estes temas aqui:
 
-Websites que podes explorar
-The Inventors - atividades e experiências educativas nas áreas da engenharia, arte e criatividade
-Shark Coders – aprende a programar
-Khan Academy – Cursos de programação, matemática, ciências e muito mais
+#### Websites que podes explorar
 
-Livros que podes ler
+https://theinventors.io/ The Inventors - atividades e experiências educativas nas áreas da engenharia, arte e criatividade
+
+https://sharkcoders.pt/ Shark Coders – aprende a programar
+
+https://www.khanacademy.org/ Khan Academy – Cursos de programação, matemática, ciências e muito mais
+
+#### Livros que podes ler
+
 “As Cientistas”, de Rachel Ignotofsky
+
 “Breve História de Quase Tudo”, de Bill Bryson
 
-Filmes que podes ver
+#### Filmes que podes ver
+
 “Hidden Figures” (Elementos Secretos) - 2016
+
 “Jogo da Imitação” - 2014
+
 “She Started It” – Documentário, 2016
 
 
